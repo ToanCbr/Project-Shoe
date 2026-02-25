@@ -6,7 +6,7 @@
   <img src="img/gd1.png" width="700">
 </p>
 
-## 📌 Giao diện chi tiết sản phẩm
+## 📌 Giao diện chi tiết khi hover chuột
 
 <p align="center">
   <img src="img/gd2.png" width="700">
